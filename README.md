@@ -1,50 +1,14 @@
-#Ödev Dönüş Tarihi
-**Ödev dönüş tarihi 10 Ocak 2018 Çarşamba günüdür.** Yapacağınız IYPT projeniz ikinci dönemde de devam edecektir. Projenin bütünüyle tamamlanma tarihi 10 Mayıs 2017'dir. 
 
-# Ödev-2 Yönergeleri 
-1. Odev2'yi grup hesabınıza fork ediniz. 
-2. Aşağıdaki açıklamaları izleyerek kendi hesabınıza fork ettiğiniz Odev2'yi değiştiriniz. 
-3. Dosyayı değiştirmek için ya "Github" içindeki kalem sekmesini kullanabilirsiniz. 
-
-## Yapılacak İşlemler
-Bu hafta projenizle ilgili olarak deneylere başlayacaksanız. Biran önce deneylere başlamanız, projenizde ortaya 
-çıkabilecek sorunlar hakkında tedbir almanızı sağlayacaktır. Bu hafta basit deney malzemeleri kullanarak deneyinizi
-gerçekteltirmeye çalışın. Önemli olan deneye başlamanızdır. Deneyde başarısız olmanız, notunuzu hiçbir şekilde etkilemeyecektir.
-Hatta başarısız olmanız doğaldır. Belki de birkaç kere başarısız olacaksınız. Ama sonunda başaracaksınız. Edison'u örnek alın; 
-Edison ampülü bulmak için en az 1000 kere başarısız oldu. Bir gazeteci "Bin kere nasıl başarısız oldunuz?" diye sorduğunda, 
-Edison: "Ben bin kere başarısız olmadım; ampülü bulmak 1000 adımda oldu" diye cevaplamıştır. 
-
-1. Ödev-2 içinde örnek bir **Materyal ve Yöntem** bölümü bulacaksınız. Buna benzer olarak projenizi yazmaya çalışacaksınız. (http://www.edu.pe.ca/threeoaks/departments/science/resources/Formal_Lab_Report_Guidelines.pdf ). Daha detaylı örnek bir rapor için daha önce yazılmış bir IYPT raporunu örnek alabilirsiniz (http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/51e0fdd3_20140702.pdf) Sizin yaptığınız deneyi tekrar etmek isteyen bir kişi, bu kısımdaki *materyal ve yöntemleri* kullanarak sizin yaptığınız deney sonuçlarına ulaşabilmeledir. Unutmayın ki deney tekrar edilebilir olmalıdır. Bunun için sizin raporunuzu okuyan bir kişi, bu çalışmanızı tekrar edebilmelidir. Yapacağınız deney için benzer bir "Materyal ve Yöntem" başlığı yazınız. 500 kelimeyi geçmeyecek şekilde bu başlığı doldurunuz. 
-
-Daha kapsamlı bir ödev için daha önce yapılmış 
-2. Yaptığınız çalışmaların foğtaraflarını ve videolarınızı çekmeniz gerekecek. Gerektiğinde çizimler yapacaksınız. Odev2 deposunun içinde "pic" ve "video" diye bir dizin açılmıştır. Deney sırasında çektiğiniz resimler, deney grafiklerini "pic" dizini içinde saklayacaksınız. Çektiğiniz video'ları ise "video" dizini içinde saklayacaksınız. 
-3. Yapacağınız deney seçtiğiniz konuya yakın olmalıdır. Deney başaralı veya başarısız da olabilir. Önemli olan bir deney yapmanız ve bu deneyin videosunu ve resimlerini github hesabına yüklemeniz gerekmektedir. 
-
-## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
-
-# Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+# Özet
+Öncelikle bu projenin adı "Weighing Time" yani Zamanı Tartmak bu projede malzemelerimiz terazi veya hassas tartı ve bir kum saati.
+Bu projede amacımız kum saatinin akarken ağırlığının değiştiğini gözlemlemek ve bunu açıklamaktır.
+İlk olarak bir kum saati terazinin bir kefesine koyulacak ardından kum saati ve içindeki kumun toplam ağırlığı ile aynı gelecek olan
+ağırlıklar da diğer kefeye koyulacak. Terazinin ortasındaki çıkıntıya bir ayna takılacak ve tam karşına bir lazer konulacak
+(Bunu yapmamızdaki amaç terazideki hareketi lazerin aynadan bir zemine yansıması ile oluşan hareketi gözlemlemek ve kağıda aktarmak.).
+Daha sonra kum saati ters çevrilecek ve terazinin hareketini gözlenecek ve açıklanacak. Aşağıda bu deney ile ilgili araştırmayı yaparken
+kullandığımız kaynakçalar belirtilmiştir.
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Bu deneyi özet kısmında belirttiğimiz üzere yapmak niyetindeydik ama imkanlar el vermediğinden dolayı bu şekilde yapamadık. Şöyle ki günlerce malzeme arayışımız bize bir şey kazandırmadı. Önce 1 saate yakın fatih civarında kum saati ve tartı aradık ama bulmadık sorduğumuz kişiler de bize ancak eminönünde terazi bulabileceğimizi söylediler. Biz de tramvayla oraya gittik. Orada yaklaşık 2-3 saat arandık ve orada kantarların çok pahalı olduğunu gördük bundan dolayı biz de bol bol dükkan dolaştık ve eşit kollu terazinin havaya asılanlarının kefesiz sadece tartı aparatını aldık çünkü en uygun olan oydu. Zincir ve onun için gereken "S" kancayı da kendimiz bulduk oradan kum saati arayışına çıktık ve uzun bir yol yürüdük. Bulduğumuz yer ise bir handı ve kapanma saati gelmişti güvenlik ne kadar karşı çıksa içeri girmek için yalvardık koşa koşa mağazaları dolaşıp kum saati aradık. Ancak sadece süs eşyası tarzında yavaş akan bizim deneye uymayanlardan bulabildik ve melasef kum saati alamadık. Ondan sonra kum saatini kendimiz yapmaya karar verdik bunun için evci çıkan birinden kum rica ettik çok sağ olsun getirdi kumun kurumasını bekledik. Deneyi de aldığımız hassas terazi ile yapamadık çünkü onu dengeleyecek ağırlığı bulamadık ve hasssas terazi ile yaptık. Bu yüzden daha öce özeti çıkarırken yaptığımız araştırmada gördüğümüz hassas terazi ile kum saatindeki ağırlık farkını tartarak yapıldı. Bu projeyi yapan başka bir arkadaşımızda böyle yapınca buna karar verdik ve ölçümünün bunu algılayacağını ve kum saatinde olan ağırlık değişikliğini gözlemleyeceğini düşünmekteyiz.
 # Materyal ve Yöntem (Experimental Setup)
 
 Bu bölümde aşağıdaki kısımla
