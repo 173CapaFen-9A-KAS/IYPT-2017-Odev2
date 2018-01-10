@@ -20,7 +20,7 @@ Hassas tartı(Okula ait hassas tartıdır.)(0-500gr aralığını ölçmektedir.
 * 
 
 # Bulgular (Results)
-Deneyimizde kum saatinin ilk konuluşunda yaptığı kuvvet ve de kumun aşağı düşmesi ile  ile arttığını görsek de ilerlyen sürelerde(kum bitene kadar) kumun sekmesi veya aşağı kuvvet uygulanmadan kumun havada kaldığı sürede istediğimiz bulgulara ulaşamadık bu yüzden deneyimizi başarılı sonuçlandıramadık. Bunun nedeni kum saatine koyduğumuz kumun yetersiz olması ve de kum saatini koyarken terazinin ölçtüğü kuvveti engelleyemememiz bunu etkilemiş olabilir.
+Deneyimizde kum saatinin ilk konuluşunda yaptığı kuvvet ve de kumun aşağı düşmesi ile  ile arttığını görsek de ilerlyen sürelerde(kum bitene kadar) kumun sekmesi veya aşağı kuvvet uygulanmadan kumun havada kaldığı sürede istediğimiz bulgulara ulaşamadık bu yüzden deneyimizi başarılı sonuçlandıramadık. Bunun nedeni kum saatine koyduğumuz kumun yetersiz olması ve de kum saatini koyarken terazinin ölçtüğü kuvveti engelleyemememiz olabilir.
 
 
 
