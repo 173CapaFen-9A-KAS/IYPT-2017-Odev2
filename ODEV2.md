@@ -15,7 +15,7 @@ Araştırmalarımızda bu deneyi yapan bir arkadaşımızdan,kum saati yapımlar
 * Çalışma grubumuz 3 arkadaştan oluşuyor: Hasan, Ali ve Süleyman. Çalışm ortamımız genelde okul olsa da malzeme arayışı vs gibi nedenlerle farklı yerlerde de çalışma yaptık.
 * Deney yurtta Ali ve Hasan tarafından yapılmıştır. Deney yaklaşık 6 saniyelik bir deneydir. 6 kere denenmiştir en iyi sonuç budur.
 * Veri toplama araçlarımız: 
-Kum saati(Kendimiz oluşturduk)(1.5L su şişelerinin üst kısmı ile kavanoz kapakları ile oluşturduk.) 
+Kum saati(Kendimiz oluşturduk)(1.5L su şişelerinin üst kısmı ve kavanoz kapakları ile oluşturduk.) 
 Hassas tartı(Okula ait hassas tartıdır.)(0-500gr aralığını ölçmektedir. Hassasiyet 0.01gr)
 * 
 
