@@ -11,11 +11,10 @@ kullandığımız kaynakçalar belirtilmiştir.
 Bu deneyi özet kısmında belirttiğimiz üzere yapmak niyetindeydik ama imkanlar el vermediğinden dolayı bu şekilde yapamadık. Şöyle ki günlerce malzeme arayışımız çok olumlu sonuçlanmadı. Önce 1 saate yakın kum saati ve tartı aradık ama Fatih civarında bulamadık sorduğumuz kişiler de bize ancak Eminönü'nde terazi bulabileceğimizi söylediler. Biz de tramvayla oraya gittik. Orada yaklaşık 2-3 saat arandık, orada kantarların çok pahalı olduğunu gördük bundan dolayı biz de bol bol dükkan dolaştık ve eşit kollu terazinin havaya asılanlarının kefesiz sadece tartı aparatını aldık çünkü fiyat olarak en uygun olan oydu. Zincir ve onun için gereken "S" kancayı da kendimiz bulduk oradan kum saati arayışına çıktık ve uzun bir yol yürüdük. Gittiğimiz yer ise bir handı ve kapanma saati gelmişti güvenlik ne kadar karşı çıksa içeri girmek için yalvardık koşa koşa mağazaları dolaşıp kum saati aradık. Ancak sadece süs eşyası tarzında, yavaş akan, bizim deneye uymayanlardan bulabildik ve melasef kum saati alamadık. Ondan sonra kum saatini kendimiz yapmaya karar verdik bunun için evci çıkan birinden kum rica ettik çok sağ olsun getirdi kumun kurumasını bekledik. Deneyi de aldığımız hassas terazi ile yapamadık çünkü onu dengeleyecek ağırlığı bulamadık. Bu yüzden daha önce özeti çıkarırken yaptığımız araştırmada gördüğümüz gibi hassas terazi ile kum saatindeki ağırlık farkını tartarak yapmayı düşündük. Bu projeyi yapan başka bir arkadaşımızda böyle yapınca buna karar verdik ve ölçümünün bunu algılayacağını ve kum saatinde olan ağırlık değişikliğini gözlemleyeceğini düşündük. Eşit kollu terazide kullnacağımız lazeride malesef kullanamadık.
 # Materyal ve Yöntem (Experimental Setup)
 * Deneyin yöntemi videoda görüldüğü üzere kendi yaptığımız kum saatinin hassas tartının üstüne koyarak değişen ağırlığı gözlemlemektir.
-Araştırmalarımızda bu deneyi yapan bir arkadaşımızdan,kum saati yapımları için internetten ve deneyin ana hatlarını araştırmak üzere yine internnetten yardım aldık.
+Araştırmalarımızda bu deneyi yapan bir arkadaşımızdan,kum saati yapımları için internetten ve deneyin ana hatlarını araştırmak üzere yine internetten yardım aldık.
 * Çalışma grubumuz 3 arkadaştan oluşuyor: Hasan, Ali ve Süleyman. Çalışm ortamımız genelde okul olsa da malzeme arayışı vs gibi nedenlerle farklı yerlerde de çalışma yaptık.
 * Deney yurtta Ali ve Hasan tarafından yapılmıştır.
-* Kum saati(Kendimiz oluşturduk)(1.5L su şişelerinin üst kısmı ile kavanoz kapakları ile oluşturduk.)
-* Hassas tartı(Okula ait hassas tartıdır.) 
+* *Veri toplama araçlarımızı* Kum saati(Kendimiz oluşturduk)(1.5L su şişelerinin üst kısmı ile kavanoz kapakları ile oluşturduk.) Hassas tartı(Okula ait hassas tartıdır.) 
 * 
 
 # Bulgular (Results)
