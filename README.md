@@ -13,8 +13,10 @@ Bu deneyi özet kısmında belirttiğimiz üzere yapmak niyetindeydik ama imkanl
 * Deneyin yöntemi videoda görüldüğü üzere kendi yaptığımız kum saatinin hassas tartının üstüne koyarak değişen ağırlığı gözlemlemektir.
 Araştırmalarımızda bu deneyi yapan bir arkadaşımızdan,kum saati yapımları için internetten ve deneyin ana hatlarını araştırmak üzere yine internetten yardım aldık.
 * Çalışma grubumuz 3 arkadaştan oluşuyor: Hasan, Ali ve Süleyman. Çalışm ortamımız genelde okul olsa da malzeme arayışı vs gibi nedenlerle farklı yerlerde de çalışma yaptık.
-* Deney yurtta Ali ve Hasan tarafından yapılmıştır.
-* *Veri toplama araçlarımızı* Kum saati(Kendimiz oluşturduk)(1.5L su şişelerinin üst kısmı ile kavanoz kapakları ile oluşturduk.) Hassas tartı(Okula ait hassas tartıdır.) 
+* Deney yurtta Ali ve Hasan tarafından yapılmıştır. Deney yaklaşık 6 saniyelik bir deneydir.
+* Veri toplama araçlarımız: 
+Kum saati(Kendimiz oluşturduk)(1.5L su şişelerinin üst kısmı ile kavanoz kapakları ile oluşturduk.) 
+Hassas tartı(Okula ait hassas tartıdır.)(0-500gr aralığını ölçmektedir. Hassasiyet 0.01gr)
 * 
 
 # Bulgular (Results)
